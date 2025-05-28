@@ -109,13 +109,3 @@ python your_script.py
 ```
 
 ---
-
-## ✅ Example App IDs
-
-| App Name                 | App ID     |
-| ------------------------ | ---------- |
-| Emirates NBD Bank        | 1497518128 |
-| Emirates Investment Bank | 1632191618 |
-| First Abu Dhabi Bank     | 1383237548 |
-
----
